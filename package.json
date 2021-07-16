@@ -49,7 +49,7 @@
     "node-libs-browser": "^2.2.1",
     "node-sass": "^5.0.0",
     "npm": "^7.20.0",
-    "prettier": "^1.19.1",
+    "prettier": "^2.3.2",
     "prettier-check": "^2.0.0",
     "prettier-stylelint": "^0.4.2",
     "rimraf": "^3.0.2",
