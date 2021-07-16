@@ -77,7 +77,7 @@
     "web-ext": "^6.2.0",
     "webextension-polyfill-ts": "^0.25.0",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.7.2"
   },
   "scripts": {
     "prebuild": "rimraf ./extension/dist/ && rimraf .cache && rimraf build/*",
